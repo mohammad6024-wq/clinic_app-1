@@ -1,8 +1,0 @@
-{
-  "name": "Remix: Remix: Remix: Remix: Clinic Management System",
-  "description": "A comprehensive local-first clinic management application for recording patient folders, doctor schedules, wallet ledgers, payouts, receipts and SMS notifications.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
